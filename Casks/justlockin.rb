@@ -1,10 +1,10 @@
 cask "justlockin" do 
   version '1.0.0'
-  sha256 "2ecfa32e502a37655dff21f9897edf3ae26edd6eed72bc2bb6660d050cbb8344"
+  sha256 "ca28731d4c9ceac721e6e31b2f2c81d93b15ebe1668435a405659fffd62ff9bd"
 
   url "https://github.com/spaceman1412/justlockin/releases/download/v#{version}/JustLockin-v#{version}.zip"
   name "JustLockin"
-  desc "JustLockin is a simple pomodoro app for macOS"
+  desc "JustLockin is a minimalist pomodoro app for macOS"
   homepage "https://github.com/spaceman1412/justlockin"
 
   depends_on macos: ">= :ventura" # macOS 13
