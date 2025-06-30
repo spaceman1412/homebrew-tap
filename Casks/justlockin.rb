@@ -1,6 +1,6 @@
 cask "justlockin" do 
-  version '1.0.0'
-  sha256 "ca28731d4c9ceac721e6e31b2f2c81d93b15ebe1668435a405659fffd62ff9bd"
+  version '1.0.1'
+  sha256 "77fb8a392618f47acacd136d0b7781aed977ab755891e3cff67c95b9fa7fac41"
 
   url "https://github.com/spaceman1412/justlockin/releases/download/v#{version}/JustLockin-v#{version}.zip"
   name "JustLockin"
